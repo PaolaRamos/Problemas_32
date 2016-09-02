@@ -37,5 +37,16 @@
 	font-weight: bold;
 	padding: 2%;
 	font-size: 3em;
+	font-family: Arial;
 	
+}
+.banner{
+	width: 120%;
+	margin-top: 15%;
+	margin-left: 5%
+}
+.bann{
+	width: 83%;
+	margin-top: 7%;
+	margin-left: 15%;
 }
