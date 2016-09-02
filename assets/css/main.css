@@ -1,0 +1,41 @@
+*{
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+
+}
+.gris{
+	background-color: #F2F2F2;
+}
+.marpe{
+	margin-top: 2%;
+}
+.marlado{
+	margin-right: 4%;
+}
+.reloj{
+	width: 12%;
+	display: inline-block;
+	
+
+}
+.menblan{
+	margin-top: 18%;
+	margin-bottom: 8%;
+}
+.grisos{
+	background-color: #424242;
+	color: white;
+
+}
+.logo{
+	width: 60%;
+}
+.transparent{
+	background-color: transparent;
+	border: solid white;
+	color: white;
+	font-weight: bold;
+	padding: 2%;
+	font-size: 3em;
+	
+}
