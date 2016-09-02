@@ -67,3 +67,7 @@
 .rojotxt{
 	color: #FA5882;
 }
+.fondo{
+	background-image: url("../assets/images/client-bg.jpg");
+	width: 100%;
+}
