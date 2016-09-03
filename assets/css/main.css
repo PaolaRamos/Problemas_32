@@ -13,25 +13,32 @@
 	margin-right: 4%;
 }
 .reloj{
-	width: 12%;
-	display: inline-block;
+	width: 22%;
+	margin-left: 85%;
+	margin-top: 38%;
 	
-
+}
+.letra{
+	margin-top: 40%;
 }
 .menblan{
-	margin-top: 18%;
+	margin-top: 13%;
 	margin-bottom: 8%;
 }
 .grisos{
 	background-color: #424242;
 	color: white;
+	height: 5%;
+	width: 79%;
+	text-align: center;
+
 
 }
 .logo{
 	width: 60%;
 }
 .transparent{
-	background-color: transparent;
+	background-color: rgba(5, 1, 0, 0.2);
 	border: solid white;
 	color: white;
 	font-weight: bold;
@@ -43,12 +50,12 @@
 .banner{
 	width: 120%;
 	margin-top: 15%;
-	margin-left: 5%
+	
 }
 .bann{
 	width: 83%;
 	margin-top: 7%;
-	margin-left: 15%;
+	margin-left: 17%;
 }
 .sell{
 	margin-top: 3%;
@@ -68,6 +75,54 @@
 	color: #FA5882;
 }
 .fondo{
-	background-image: url("../assets/images/client-bg.jpg");
+	background-image: url("../images/client-bg.jpg");
+	width: 97%;
+	height: 97%;
+}
+button{
+	background-color: #424242;
+	color: white;
+
+}
+.blk{
+	background-color: #424242;
+	display: inline;
+	color: white;
+	position: absolute;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 18%;
+	padding: 2%;
+}
+.marcas{
+	width: 90%;
+	margin:50%;
+	margin-left: 2%;
+}
+.matop{
+	margin-top: 30%;
+}
+.hov{
+	position: relative;
+	top: 0;
+	background-color: rgba(38, 77, 115, 0.5);
+	width:90%;
+	height: 100%;
+	opacity:0;
+	
+
+}
+.hov:hover{
+	opacity: 5;
+}
+.blog{
 	width: 100%;
+	margin left: 20%;
+	margin-top: 15%;
+}
+.titu{
+	font-size: 2em;
+}
+.mabot{
+	margin-bottom: 8%;
 }
